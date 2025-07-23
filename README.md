@@ -53,10 +53,10 @@ It’s a simple dashboard but gives a good idea of how banks can use visuals and
 ## 📸 Screenshots
  
 Example:  
-![Home 1](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/88b5afacdf8d9ad9b95c56452b420a2a4c101ff3/Dashboard%20Home1.png)
-![Home 2](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/88b5afacdf8d9ad9b95c56452b420a2a4c101ff3/Dashboard%20Home1.png)
-![Loan Analysis](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/88b5afacdf8d9ad9b95c56452b420a2a4c101ff3/Dashboard%20Home1.png)
-![Deposit Analysis](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/88b5afacdf8d9ad9b95c56452b420a2a4c101ff3/Dashboard%20Home1.png)
+![image alt](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/88b5afacdf8d9ad9b95c56452b420a2a4c101ff3/Dashboard%20Home1.png)
+![Home 2](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/fbc934de145a249ab0488f60f115cb6c1a7b40bf/Dashboard%20Home2.png)
+![Loan Analysis](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/fbc934de145a249ab0488f60f115cb6c1a7b40bf/Dashboard%20Loan%20Analysis.png)
+![Deposit Analysis](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/fbc934de145a249ab0488f60f115cb6c1a7b40bf/Dashboard%20Deposit%20Analysis.png)
 
 
 
