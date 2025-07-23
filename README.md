@@ -54,7 +54,7 @@ It’s a simple dashboard but gives a good idea of how banks can use visuals and
 
 > *(Add some screenshots here after uploading images to the repo)*  
 Example:  
-![Main Dashboard]()
+![Main Dashboard](https://github.com/Chetan00000/DA_Banking_Risk_Analytics/blob/88b5afacdf8d9ad9b95c56452b420a2a4c101ff3/Dashboard%20Home1.png)
 
 ---
 
